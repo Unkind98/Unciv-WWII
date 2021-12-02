@@ -91,7 +91,7 @@
 			{
 				"name": "Guilds",
 				"uniques": [
-					"+[15]% [Production] from every [Industrial Zone]"],
+					"[+15]% [Production] from every [Industrial Zone]"],
 				"row": 1,
 				"column": 5
 			},
@@ -163,7 +163,7 @@
 			{
 				"name": "National Support",
 				"uniques": [
-					"+[15]% growth in all cities"],
+					"[+15]% growth in all cities"],
 				"row": 1,
 				"column": 5
 			},
@@ -225,7 +225,7 @@
 		"era": "1939-",
 		"uniques": [
 			"Incompatible with [Capitalism]",
-			"+[15]% Production when constructing [Culture] buildings"],
+			"[+15]% Production when constructing [Culture] buildings"],
 		"policies": [
 			{
 				"name": "Free Thought",
@@ -244,7 +244,7 @@
 			{
 				"name": "Free Speech",
 				"uniques": [
-					"+[20]% [Science] from every [University]"],
+					"[+20]% [Science] from every [University]"],
 				"requires": [
 					"Free Thought"],
 				"row": 2,
@@ -303,7 +303,7 @@
 			{
 				"name": "Populism",
 				"uniques": [
-					"[Wounded] units deal +[25]% damage"],
+					"[Wounded] units deal [+25]% damage"],
 				"row": 1,
 				"column": 1
 			},
@@ -311,7 +311,7 @@
 				"name": "Police State",
 				"uniques": [
 					"[+3 Happiness] from every [Courthouse]",
-					"+[100]% Production when constructing [Courthouse]"],
+					"[+100]% Production when constructing [Courthouse]"],
 				"row": 1,
 				"column": 5
 			},
@@ -319,7 +319,7 @@
 				"name": "Communism",
 				"uniques": [
 					"Incompatible with [Capitalism]",
-					"+[15]% Production when constructing [Buildings] [in all cities]"],
+					"[+15]% Production when constructing [Buildings] [in all cities]"],
 				"requires": [
 					"Populism"],
 				"row": 2,
@@ -337,7 +337,7 @@
 			{
 				"name": "Planned Economy",
 				"uniques": [
-					"+[25]% [Production] from every [Industrial Zone]"],
+					"[+25]% [Production] from every [Industrial Zone]"],
 				"requires": [
 					"Communism"],
 				"row": 3,
@@ -365,7 +365,7 @@
 			{
 				"name": "Nationalism Complete",
 				"uniques": [
-					"+[25]% great person generation in all cities"]
+					"[+25]% great person generation in all cities"]
 			}
 		]
 	},

@@ -10,8 +10,8 @@
 			"[+1 Science] for each adjacent [Atoll]",
 			"[+2 Science] for each adjacent [Mountain]",
 			"[+3 Science] for each adjacent [Volcano]",
-			"[+1 Science] once [Scientific Theory I] is discovered",
-			"[+1 Science] once [Scientific Theory III] is discovered",
+			"[+1 Science] <after discovering [Scientific Theory I]>",
+			"[+1 Science] <after discovering [Scientific Theory III]>",
 		"Irremovable"],
 	},
 	{
@@ -19,8 +19,8 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
 		"science": 1,
 		"uniques": [
-			"[+1 Science] once [Education II] is discovered",
-			"[+1 Science] once [Education III] is discovered",
+			"[+1 Science] <after discovering [Education II]>",
+			"[+1 Science] <after discovering [Education III]>",
 		"Irremovable"],
 	},
 	{
@@ -29,8 +29,8 @@
 		"science": 1,
 		"uniques": [
 			"[+3 Science] for each adjacent [Mine]",
-			"[+1 Science] once [Atomic Theory II] is discovered",
-			"[+1 Science] once [Atomic Theory III] is discovered",
+			"[+1 Science] <after discovering [Atomic Theory II]>",
+			"[+1 Science] <after discovering [Atomic Theory III]>",
 		"Irremovable"],
 	},
 	{
@@ -51,7 +51,7 @@
 		"gold": 3,
 		"science": 3,
 		"uniques": [
-			"[+2 Food] once [Ecology] is discovered",
+			"[+2 Food] <after discovering [Ecology]>",
 		"Irremovable"],
 	},
 
@@ -82,7 +82,7 @@
 		"turnsToBuild": 20,
 		"techRequired": "Massive Consumtion",
 		"uniques": [
-			"[+2 Science] once [Banking Card] is discovered"],
+			"[+2 Science] <after discovering [Banking Card]>"],
 	},
 	
 		//Culture
@@ -124,8 +124,8 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill"],
 		"food": 1,
 		"uniques": [
-			"[+1 Food] once [Sanitation II] is discovered",
-			"[+1 Food] once [Sanitation III] is discovered"],
+			"[+1 Food] <after discovering [Sanitation II]>",
+			"[+1 Food] <after discovering [Sanitation III]>"],
 	},
 
 	//
@@ -137,10 +137,10 @@
 		"gold": 1,
 		"turnsToBuild": 10,
 		"uniques": [
-			"[+1 Food] once [Mechanization II] is discovered",
-			"[+1 Food] once [Ecology] is discovered",
-			"[+1 Science] once [Biology I] is discovered",
-			"[+1 Food] once [Genetics] is discovered",
+			"[+1 Food] <after discovering [Mechanization II]>",
+			"[+1 Food] <after discovering [Ecology]>",
+			"[+1 Science] <after discovering [Biology I]>",
+			"[+1 Food] <after discovering [Genetics]>",
 			"[+1 Food] for each adjacent [Water Pump]"],
 		"techRequired": "War Stock I",
 	},
@@ -150,10 +150,10 @@
 		"food": 2,
 		"gold": 1,
 		"uniques": [
-			"[+1 Food] once [Irrigation III] is discovered",
-			"[+1 Food] once [Ecology] is discovered",
-			"[+1 Science] once [Biology II] is discovered",
-			"[+1 Food] once [Genetics] is discovered",
+			"[+1 Food] <after discovering [Irrigation III]>",
+			"[+1 Food] <after discovering [Ecology]>",
+			"[+1 Science] <after discovering [Biology II]>",
+			"[+1 Food] <after discovering [Genetics]>",
 			"[+1 Food] for each adjacent [Water Pump]"],
 		"turnsToBuild": 15,
 		"techRequired": "Irrigation I",
@@ -165,10 +165,10 @@
 		"gold": 1,
 		"turnsToBuild": 20,
 		"uniques": [
-			"[+1 Food] once [Farming Revolution IV] is discovered",
-			"[+1 Food] once [Ecology] is discovered",
-			"[+1 Science] once [Biology III] is discovered",
-			"[+1 Food] once [Genetics] is discovered",
+			"[+1 Food] <after discovering [Farming Revolution IV]>",
+			"[+1 Food] <after discovering [Ecology]>",
+			"[+1 Science] <after discovering [Biology III]>",
+			"[+1 Food] <after discovering [Genetics]>",
 			"[+1 Food] for each adjacent [Water Pump]"],
 		"techRequired": "Farming Revolution I",
 	},
@@ -201,8 +201,8 @@
 		"gold": 1,
 		"techRequired": "Animals Husbandry I",
 		"uniques": [
-			"[+1 Food] once [Animals Husbandry II] is discovered",
-			"[+1 Food] once [Animals Husbandry III] is discovered"],
+			"[+1 Food] <after discovering [Animals Husbandry II]>",
+			"[+1 Food] <after discovering [Animals Husbandry III]>"],
 	},
 	{
 		"name": "Aqua-Farm",
@@ -214,8 +214,8 @@
 		"techRequired": "Farming Revolution IV",
 		"uniques": [
 			"Cannot be built on bonus resource",
-			"[+2 Food] once [Pharmaceuticals] is discovered",
-			"[+1 Food] once [Genetics] is discovered"],
+			"[+2 Food] <after discovering [Pharmaceuticals]>",
+			"[+1 Food] <after discovering [Genetics]>"],
 	},
 	{
 		"name": "Pasture",
@@ -225,10 +225,10 @@
 		"gold": 1,
 		"techRequired": "Animals Husbandry I",
 		"uniques": [
-			"[+1 Food] once [Animals Husbandry II] is discovered",
-			"[+1 Food] once [Animals Husbandry III] is discovered",
-			"[+3 Food] once [Pharmaceuticals] is discovered",
-			"[+1 Food] once [Genetics] is discovered"],
+			"[+1 Food] <after discovering [Animals Husbandry II]>",
+			"[+1 Food] <after discovering [Animals Husbandry III]>",
+			"[+3 Food] <after discovering [Pharmaceuticals]>",
+			"[+1 Food] <after discovering [Genetics]>"],
 	},
 	{
 		"name": "Plantation",
@@ -237,9 +237,9 @@
 		"gold": 1,
 		"techRequired": "War Stock I",
 		"uniques": [
-			"[+1 Food] once [Animals Husbandry II] is discovered",
-			"[+1 Food] once [Animals Husbandry III] is discovered",
-			"[+1 Food] once [Genetics] is discovered"],
+			"[+1 Food] <after discovering [Animals Husbandry II]>",
+			"[+1 Food] <after discovering [Animals Husbandry III]>",
+			"[+1 Food] <after discovering [Genetics]>"],
 	},
 	{
 		"name": "Camp",
@@ -250,8 +250,8 @@
 		"techRequired": "Hunting I",
 		"uniques": [
 			"Does not need removal of [Forest]",
-			"[+1 Food] once [Hunting II] is discovered",
-			"[+1 Food] once [Hunting III] is discovered"],
+			"[+1 Food] <after discovering [Hunting II]>",
+			"[+1 Food] <after discovering [Hunting III]>"],
 	},
 
 		// Production
@@ -304,8 +304,8 @@
 		"turnsToBuild": 10,
 		"techRequired": "Mining I",
 		"uniques": [
-			"[+1 Production] once [Mining II] is discovered",
-			"[+1 Production] once [Mining III] is discovered"],
+			"[+1 Production] <after discovering [Mining II]>",
+			"[+1 Production] <after discovering [Mining III]>"],
 	},
 	{
 		"name": "Mineral Exploitation",
@@ -314,8 +314,8 @@
 		"turnsToBuild": 10,
 		"techRequired": "Mining I",
 		"uniques": [
-			"[+1 Production] once [Mining II] is discovered",
-			"[+1 Production] once [Mining III] is discovered"],
+			"[+1 Production] <after discovering [Mining II]>",
+			"[+1 Production] <after discovering [Mining III]>"],
 	},
 
 	//
@@ -327,8 +327,8 @@
 		"techRequired": "Lumber I",
 		"uniques": [
 			"Does not need removal of [Forest]",
-			"[+1 Production] once [Lumber II] is discovered",
-			"[+1 Production] once [Lumber III] is discovered"],
+			"[+1 Production] <after discovering [Lumber II]>",
+			"[+1 Production] <after discovering [Lumber III]>"],
 	},
 	{
 		"name": "Sawmill",
@@ -338,8 +338,8 @@
 		"techRequired": "Lumber I",
 		"uniques": [
 			"Does not need removal of [Forest]",
-			"[+1 Production] once [Lumber II] is discovered",
-			"[+1 Production] once [Lumber III] is discovered"],
+			"[+1 Production] <after discovering [Lumber II]>",
+			"[+1 Production] <after discovering [Lumber III]>"],
 	},
 
 	//
@@ -350,8 +350,8 @@
 		"production": 1,
 		"techRequired": "Mining I",
 		"uniques": [
-			"[+1 Production] once [Mining II] is discovered",
-			"[+1 Production] once [Mining III] is discovered"],
+			"[+1 Production] <after discovering [Mining II]>",
+			"[+1 Production] <after discovering [Mining III]>"],
 	},
 	{
 		"name": "Pump Jack",
@@ -367,8 +367,8 @@
 		"production": 1,
 		"techRequired": "Mega-Factory I",
 		"uniques": [
-			"[+1 Production] once [Mega-Factory II] is discovered",
-			"[+1 Production] once [Mega-Factory III] is discovered"],
+			"[+1 Production] <after discovering [Mega-Factory II]>",
+			"[+1 Production] <after discovering [Mega-Factory III]>"],
 	},
 
 		// Production +
@@ -378,8 +378,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Flood plains"],
 		"production": 1,
 		"uniques": [
-			"[+1 Production] once [Mega-Factory V] is discovered",
-			"Must be next to [Mountain]",
+			"[+1 Production] <after discovering [Mega-Factory V]>",
 			"[+2 Production] for each adjacent [Mountain]",
 			"[+3 Production] for each adjacent [River]",
 		"Irremovable"],
@@ -399,7 +398,7 @@
 		"production": 1,
 		"turnsToBuild": 15,
 		"uniques": [
-			"[+1 Production] once [Mega-Factory V] is discovered",
+			"[+1 Production] <after discovering [Mega-Factory V]>",
 			"[+1 Production] for each adjacent [Coast]",
 			"[+1 Production] for each adjacent [Ocean]"],
 	},
@@ -410,7 +409,7 @@
 		"production": 1,
 		"turnsToBuild": 15,
 		"uniques": [
-			"[+1 Production] once [Electronics] is discovered",
+			"[+1 Production] <after discovering [Electronics]>",
 			"[+1 Production] for each adjacent [Desert]"],
 	},
 
@@ -421,10 +420,10 @@
 		"resourceTerrainAllow": ["Grassland","Plains","Forest","Jungle","Desert"],
 		"uniques": [
 			"Does not need removal of [Forest]",
-			"[+1 Science] once [Archaeology II] is discovered",
-			"[+1 Science] once [Archaeology III] is discovered",
-			"[+1 Culture] once [Archaeology II] is discovered",
-			"[+1 Culture] once [Archaeology III] is discovered"],
+			"[+1 Science] <after discovering [Archaeology II]>",
+			"[+1 Science] <after discovering [Archaeology III]>",
+			"[+1 Culture] <after discovering [Archaeology II]>",
+			"[+1 Culture] <after discovering [Archaeology III]>"],
 	},
 
 		// Military improvement
@@ -456,7 +455,7 @@
 		"food": -1,
 		"uniques": [
 			"Gives a defensive bonus of [125]%",
-			"Deal 30 damage to adjacent enemy units"]
+			"Adjacent enemy units ending their turn take [30] damage"]
 	},
 	{
 		"name": "Trenches",
@@ -630,7 +629,7 @@
 		"name": "Citadel",
 		"uniques": [
 			"Gives a defensive bonus of [100]%",
-			"Deal 30 damage to adjacent enemy units",
+			"Adjacent enemy units ending their turn take [30] damage",
 			"Great Improvement"],
 		// TODO (G&K): adds every tile around it to your territory
 	},

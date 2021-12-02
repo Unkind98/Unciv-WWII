@@ -998,21 +998,21 @@ TechIcons/Atomic Way III
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Backdrop of War I
+TechIcons/Backdrop Of War I
   rotate: false
   xy: 1801, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Backdrop of War II
+TechIcons/Backdrop Of War II
   rotate: false
   xy: 1801, 644
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Backdrop of War III
+TechIcons/Backdrop Of War III
   rotate: false
   xy: 1801, 644
   size: 100, 100
@@ -1043,6 +1043,13 @@ TechIcons/Banking II
 TechIcons/Banking III
   rotate: false
   xy: 1477, 602
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Basic Defence I
+  rotate: false
+  xy: 220, 596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -3279,6 +3286,13 @@ TechIcons/Great Improvement III
   orig: 100, 100
   offset: 0, 0
   index: -1
+TechIcons/Great Metallurgy I
+  rotate: false
+  xy: 4, 1080
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TechIcons/Great Metallurgy II
   rotate: false
   xy: 4, 1080
@@ -4546,7 +4560,7 @@ UnitIcons/Mortar M1935
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mosin-Nagan 1891;30 Rifleman
+UnitIcons/Mosin-Nagan mod.1938 Rifleman
   rotate: false
   xy: 328, 432
   size: 100, 100
@@ -5106,6 +5120,13 @@ ImprovementIcons/Water Pump
   offset: 0, 0
   index: -1
 ImprovementIcons/Water Tank
+  rotate: false
+  xy: 328, 56
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Water Tank
   rotate: false
   xy: 328, 56
   size: 100, 100
@@ -7154,5 +7175,25 @@ UnitPromotionIcons/Wolfpack
   xy: 1598, 912
   size: 50, 50
   orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+unkind98.png
+size: 204, 204
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ligne Maginot Worker
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/General Mobilization
+  rotate: false
+  xy: 104, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

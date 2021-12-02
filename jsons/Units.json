@@ -34,7 +34,7 @@
 		"requiredTech": "Future Tech",
 		"movement": 2,
 		"cost": 1000,
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence","Double movement in coast"],
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence","Double movement in [Coast]"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -2367,7 +2367,7 @@
 		"cost": 40,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 10%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 10%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "LCM (2)",
@@ -2380,7 +2380,7 @@
 		"cost": 179,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 10%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 10%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "LCM (3)",
@@ -2393,7 +2393,7 @@
 		"cost": 288,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 15%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 15%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "LCM (4)",
@@ -2406,7 +2406,7 @@
 		"cost": 456,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 15%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 15%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "LCM (6)",
@@ -2419,7 +2419,7 @@
 		"cost": 739,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 15%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 15%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "LCM (8)",
@@ -2430,7 +2430,7 @@
 		"cost": 936,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 15%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 15%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "USS LST",
@@ -2442,7 +2442,7 @@
 		"cost": 936,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Bonus for units in 2 tile radius 20%","Limited Visibility","Double movement in coast"],
+		"uniques": ["Bonus for units in 2 tile radius 20%","[-1] Sight","Double movement in [Coast]"],
 	},
 	{
 		"name": "USS Liberty Ship",
@@ -2454,7 +2454,7 @@
 		"cost": 390,
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-		"uniques": ["Can undertake a trade mission with City-State","Limited Visibility"],
+		"uniques": ["Can undertake a trade mission with City-State","[-1] Sight"],
 	},
 	//Cuirasses Battleship//
 	{

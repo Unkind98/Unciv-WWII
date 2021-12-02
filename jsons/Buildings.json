@@ -32,7 +32,7 @@
 		"happiness": 1,
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Pre-war Economy",
 	},
 	{
@@ -43,7 +43,7 @@
         "requiredNearbyImprovedResources": ["Fish","Turtle","Whales","Crab"],
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"happiness": 1,
 		"requiredTech": "War Effort I",
 	},
@@ -54,7 +54,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
         "requiredNearbyImprovedResources": ["Bison","Deer","Ostrich","Kangaroo"],
 		"requiredTech": "War Economy II",
 	},
@@ -64,7 +64,7 @@
         "gold": 2,
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"specialistSlots": {"": 1},
         "requiredNearbyImprovedResources": ["Wheat"],
 		"requiredTech": "War Economy I",
@@ -75,7 +75,7 @@
         "gold": 2,
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"specialistSlots": {"": 1},
         "requiredNearbyImprovedResources": ["Cacao"],
 		"requiredTech": "War Effort II",
@@ -86,7 +86,7 @@
         "gold": 3,
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
         "specialistSlots": {"": 1},
         "hurryCostModifier": 25,
         "percentStatBonus": {"gold": 5},
@@ -97,7 +97,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
         "percentStatBonus": {"gold": 65},
         "maintenance": 3,
         "requiredTech": "Backdrop Of War III",
@@ -110,7 +110,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Pre-war Economy",
 	},
 	{
@@ -121,7 +121,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Banking III",
 	},
 	{
@@ -131,7 +131,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"happiness": 2,
 		"requiredTech": "Globalization",
 	},
@@ -143,7 +143,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "War Effort III",
 	},
 	{
@@ -154,7 +154,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Backdrop Of War I",
 	},
 	{
@@ -165,7 +165,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Backdrop Of War II",
 	},
 	{
@@ -176,7 +176,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Backdrop Of War III",
 	},
 	{
@@ -187,7 +187,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "War Economy I",
 	},
 	{
@@ -198,7 +198,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "City Center",
 		"uniques": [
-            "Not displayed as an available construction unless [City Center] is built"],
+            "Not displayed as an available construction without [City Center]"],
 		"requiredTech": "Budgetary Cuts II",
 	},
 
@@ -211,7 +211,7 @@
         "greatPersonPoints": {"gold": 1},
         "uniques": [
             "Cost increases by [10] per owned city",
-            "Creates a [Skyline] improvement on a specific tile",
+            //"Creates a [Skyline] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Globalization",
@@ -227,7 +227,7 @@
 		"uniques": [
             "Must be next to [Mountain]"
             "Cost increases by [10] per owned city",
-            "Creates a [Campus] improvement on a specific tile",
+            //"Creates a [Campus] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Study I",
@@ -246,7 +246,7 @@
         "uniques": [
             "Cost increases by [15] per owned city",
             "Must be next to [Hill]",
-            "Not displayed as an available construction unless [Campus] is built"],
+            "Not displayed as an available construction without [Campus]"],
         "quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
     },
 	{
@@ -260,7 +260,7 @@
 		"uniques": [
             "Cost increases by [5] per owned city",
             "Must be next to [Mountain]",
-            "Not displayed as an available construction unless [Campus] is built"],
+            "Not displayed as an available construction without [Campus]"],
         "requiredTech": "Study III",
 	},
 
@@ -274,7 +274,7 @@
 		"maintenance": 2,
 		"uniques": [
             "Cost increases by [10] per owned city",
-            "Creates a [University] improvement on a specific tile",
+            //"Creates a [University] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Education I",
@@ -289,7 +289,7 @@
 		"uniques": [
             "Cost increases by [5] per owned city",
             "[+1 Science] Per [5] Population in this city",
-            "Not displayed as an available construction unless [University] is built"],
+            "Not displayed as an available construction without [University]"],
         "requiredTech": "Study II",
     },
 	{
@@ -301,7 +301,7 @@
         "uniques": [
             "Cost increases by [5] per owned city",
             "[+1 Science] Per [4] Population in this city",
-            "Not displayed as an available construction unless [University] is built"],
+            "Not displayed as an available construction without [University]"],
         "requiredTech": "Study V",
     },
 	{
@@ -316,7 +316,7 @@
 		"uniques": [
             "Cost increases by [5] per owned city",
             "[+1 Science] Per [3] Population in this city",
-            "Not displayed as an available construction unless [Public School] is built"],
+            "Not displayed as an available construction without [Public School]"],
     },
     {
         "name": "National College",
@@ -331,7 +331,7 @@
         "uniques": [
             "[+1 Science] Per [2] Population in this city",
             "Cost increases by [10] per owned city",
-            "Not displayed as an available construction unless [College] is built"],
+            "Not displayed as an available construction without [College]"],
         "requiredTech": "Scientific Rush III"
     },
     {
@@ -346,7 +346,7 @@
         "uniques": [
             "[+1 Science] Per [4] Population in this city",
             "Cost increases by [15] per owned city",
-            "Not displayed as an available construction unless [University] is built"],
+            "Not displayed as an available construction without [University]"],
 		"requiredTech": "Scientific Rush II",
     },
     {
@@ -361,7 +361,7 @@
             "Cost increases by [5] per owned city",
             "[+1 Science] from [Water resource] tiles in this city",
             "[+1 Science] from [Atoll] tiles in this city",
-            "Not displayed as an available construction unless [University] is built"]
+            "Not displayed as an available construction without [University]"]
     },
     {
         "name": "University of Sankore",
@@ -376,7 +376,7 @@
             "Cost increases by [15] per owned city",
             "[+2 Science, +3 Gold] from each Trade Route",
             "Must be next to [Desert]"
-            "Not displayed as an available construction unless [University] is built"],
+            "Not displayed as an available construction without [University]"],
 		"requiredTech": "Science Supply I",
         "quote": "'Scholars are the heirs of the prophets, for the prophets did not leave behind a legacy of wealth but that of knowledge.' –Musnad al-Bazzar 10/68"
     },
@@ -392,7 +392,7 @@
             "Cost increases by [15] per owned city",
             "Free Technology",
             "[+1 Science] Per [3] Population in this city",
-            "Not displayed as an available construction unless [Library] is built"],
+            "Not displayed as an available construction without [Library]"],
         "quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
     },
 	{
@@ -406,7 +406,7 @@
         "uniques": [
             "Cost increases by [15] per owned city",
             "Free Technology",
-            "Not displayed as an available construction unless [University] is built"],
+            "Not displayed as an available construction without [University]"],
         "requiredTech": "Scientific Rush I",
     },
 
@@ -421,7 +421,7 @@
 		"maintenance": 1,
 		"uniques": [
             "Cost increases by [10] per owned city",
-            "Creates a [Research Center] improvement on a specific tile",
+            //"Creates a [Research Center] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Atomic Way I",
@@ -436,7 +436,7 @@
 		"uniques": [
             "Cost increases by [5] per owned city",
             "[10]% of food is carried over after population increases",
-            "Not displayed as an available construction unless [Research Center] is built"],
+            "Not displayed as an available construction without [Research Center]"],
 	},
     {
         "name": "Atomic Project",
@@ -445,7 +445,7 @@
         "requiredBuilding": "Research Center",
         "cost": 2550,
         "uniques": [
-            "Not displayed as an available construction unless [Research Center] is built",
+            "Not displayed as an available construction without [Research Center]",
             "Cost increases by [15] per owned city",
             "Enables nuclear weapon"],
 		"requiredTech": "Nuclear Fission",
@@ -459,7 +459,7 @@
         "replaces": "Atomic Project",
         "cost": 6000,
         "uniques": [
-            "Not displayed as an available construction unless [Research Center] is built",
+            "Not displayed as an available construction without [Research Center]",
             "Cost increases by [15] per owned city",
             "Enables nuclear weapon"],
 		"requiredTech": "Supersonic",
@@ -481,8 +481,8 @@
         "cost": 1800,
         "requiredBuilding": "Apollo Program",
         "uniques": [
-            "Not displayed as an available construction unless [Apollo Program] is built",
-            "Creates a [Spaceport] improvement on a specific tile"
+            "Not displayed as an available construction without [Apollo Program]",
+            //"Creates a [Spaceport] improvement on a specific tile"
             "Enables construction of Spaceship parts"],
         "requiredTech": "Skys the Limit",
     },
@@ -493,7 +493,7 @@
         "requiredBuilding": "Apollo Program",
         "greatPersonPoints": {"science": 1},
         "uniques": [
-            "Not displayed as an available construction unless [Spaceport] is built",
+            "Not displayed as an available construction without [Spaceport]",
             "[2] free [Great Scientist] units appear",
             "+[25]% production when building [Spaceship part] in this city"],
         "requiredTech": "Future Tech",
@@ -506,7 +506,7 @@
         "requiredBuilding": "Apollo Program",
 		"cost": 360,
 		"uniques": [
-            "Not displayed as an available construction unless [Spaceport] is built",
+            "Not displayed as an available construction without [Spaceport]",
             "+[50]% production when building [Spaceship part] in this city"],
 		"requiredTech": "Skys the Limit",
     },
@@ -518,7 +518,7 @@
         "requiredBuilding": "Spaceship Factory",
         "requiredTech": "Skys the Limit",
         "uniques": [
-            "Not displayed as an available construction unless [Spaceship Factory] is built",
+            "Not displayed as an available construction without [Spaceship Factory]",
             "Spaceship part",
             "Cannot be purchased"]
     },
@@ -527,7 +527,7 @@
         "requiredBuilding": "Spaceship Factory",
         "requiredTech": "Skys the Limit",
         "uniques": [
-            "Not displayed as an available construction unless [Spaceship Factory] is built",
+            "Not displayed as an available construction without [Spaceship Factory]",
             "Spaceship part",
             "Cannot be purchased"]
     },
@@ -536,7 +536,7 @@
         "requiredBuilding": "Spaceship Factory",
         "requiredTech": "Skys the Limit",
         "uniques": [
-            "Not displayed as an available construction unless [Spaceship Factory] is built",
+            "Not displayed as an available construction without [Spaceship Factory]",
             "Spaceship part",
             "Cannot be purchased"]
     },
@@ -545,7 +545,7 @@
         "requiredBuilding": "Spaceship Factory",
         "requiredTech": "Skys the Limit",
         "uniques": [
-            "Not displayed as an available construction unless [Spaceship Factory] is built",
+            "Not displayed as an available construction without [Spaceship Factory]",
             "Spaceship part",
             "Cannot be purchased"]
     },
@@ -576,7 +576,7 @@
         "uniques": [
             "[+1 Gold] from [River] tiles in this city",
             "Cost increases by [10] per owned city",
-            "Creates a [Commercial Hub] improvement on a specific tile",
+            //"Creates a [Commercial Hub] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Pre-war Economy",
@@ -606,7 +606,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
         "percentStatBonus": {"gold": 15},
         "requiredTech": "War Economy II"
     },
@@ -619,7 +619,7 @@
         "hurryCostModifier": 15,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "[Great Merchant] is earned [10]% faster",
             "Free [Great Merchant] appears"],
         "requiredTech": "Budgetary Cuts I"
@@ -632,7 +632,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking I",
 	},
 	{
@@ -643,7 +643,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Economy I",
 	},
 	{
@@ -654,7 +654,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking III",
 	},
 	{
@@ -665,7 +665,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Pre-war Economy",
 	},
 	{
@@ -675,7 +675,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "Must have an owned [Forest] within [1] tiles"],
 		"requiredTech": "Budgetary Cuts II",
 	},
@@ -685,7 +685,7 @@
         "gold": 1,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Economy II",
 	},
 	{
@@ -695,7 +695,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking II",
 	},
 	{
@@ -706,7 +706,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking I",
 	},
 	{
@@ -716,7 +716,7 @@
 		"happiness": 1,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Budgetary Cuts II",
 	},
 	{
@@ -726,7 +726,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Effort III",
 	},
 	{
@@ -736,7 +736,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Effort III",
 	},
 	{
@@ -745,7 +745,7 @@
         "gold": 3,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Budgetary Cuts II",
 	},
 	{
@@ -756,7 +756,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking II",
 	},
 	{
@@ -765,7 +765,7 @@
         "gold": 2,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "Must have an owned [Grassland] within [2] tiles"],
 		"requiredTech": "War Effort I",
 	},
@@ -776,7 +776,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Globalization",
 	},
 	{
@@ -787,7 +787,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Backdrop Of War I",
 	},
 	{
@@ -796,7 +796,7 @@
         "gold": 3,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Budgetary Cuts I",
 	},
 	{
@@ -806,7 +806,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Effort II",
 	},
 	{
@@ -815,7 +815,7 @@
         "gold": 1,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking II",
 	},
 	{
@@ -824,7 +824,7 @@
         "gold": 2,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Effort II",
 	},
 	{
@@ -833,7 +833,7 @@
         "gold": 2,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "Must have an owned [Forest] within [1] tiles",
             "Must have an owned [River] within [1] tiles"],
 		"requiredTech": "Banking III",
@@ -845,7 +845,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Backdrop Of War III",
 	},
 	{
@@ -855,7 +855,7 @@
         "gold": 2,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Economy II",
 	},
 	{
@@ -865,7 +865,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Effort III",
 	},
 	{
@@ -875,7 +875,7 @@
 		"happiness": 1,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "Must have an owned [Grassland] within [1] tiles"],
 		"requiredTech": "Budgetary Cuts I",
 	},
@@ -887,7 +887,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Globalization",
 	},
 	{
@@ -898,7 +898,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Effort I",
 	},
 	{
@@ -908,7 +908,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "Must have an owned [Grassland] within [2] tiles"],
 		"requiredTech": "War Effort II",
 	},
@@ -919,7 +919,7 @@
 		"requiredResource": "Copper",
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "War Economy I",
 	},
 	{
@@ -928,7 +928,7 @@
         "gold": 2,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredTech": "Banking III",
 	},
 	{
@@ -938,7 +938,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built",
+            "Not displayed as an available construction without [Commercial Hub]",
             "Must have an owned [Grassland] within [2] tiles"],
 		"requiredTech": "Pre-war Economy",
 	},
@@ -948,7 +948,7 @@
         "gold": 3,
         "requiredBuilding": "Commercial Hub",
 		"uniques": [
-            "Not displayed as an available construction unless [Commercial Hub] is built"],
+            "Not displayed as an available construction without [Commercial Hub]"],
 		"requiredNearbyImprovedResources": ["Silk"],
 		"requiredTech": "Backdrop Of War II",
 	},
@@ -1071,7 +1071,7 @@
             "[+1 Production] from [Sawmill] tiles in this city",
             "[+1 Production] from [Strategic resource] tiles in this city",
             "Cost increases by [10] per owned city",
-            "Creates a [Industrial Zone] improvement on a specific tile",
+            //"Creates a [Industrial Zone] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Industrialization I",
@@ -1090,7 +1090,7 @@
             "[+1 Production] from [Lumber Mill] tiles in this city",
             "[+1 Production] from [Strategic resource] tiles in this city",
             "Cost increases by [5] per owned city",
-            "Creates a [Hansa] improvement on a specific tile",
+            //"Creates a [Hansa] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Industrialization I",
@@ -1103,7 +1103,7 @@
         "hurryCostModifier": 25,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredTech": "Industrialization I"
     },
 	{
@@ -1114,7 +1114,7 @@
         "specialistSlots": {"": 1},
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
         "hurryCostModifier": 25,
         "percentStatBonus": {"production": 5},
         "requiredTech": "Industrialization III"
@@ -1129,7 +1129,7 @@
 		"requiredResource": "Wheat",
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built",
+            "Not displayed as an available construction without [Industrial Zone]",
             "+[10]% production when building [mounted units] in this city"],
 		"requiredTech": "Industrialization II"
     },
@@ -1156,7 +1156,7 @@
         "requiredNearbyImprovedResources": ["Wine"],
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
         "hurryCostModifier": 25,
 		"happiness": 4,
 		"cannotBeBuiltWith": "Vodka Factory",
@@ -1170,7 +1170,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
         "requiredNearbyImprovedResources": ["Wine"],
         "resourceBonusStats": {"gold": 4},
         "hurryCostModifier": 25,
@@ -1189,7 +1189,7 @@
 		"xpForNewUnits": 10,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredTech": "Budgetary Cuts III",
     },
     {
@@ -1199,7 +1199,7 @@
 		"cost": 340,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built",
+            "Not displayed as an available construction without [Industrial Zone]",
             "Must have an owned [Forest] within [3] tiles"],
         "requiredTech": "Banking I",
     },
@@ -1211,7 +1211,7 @@
         "hurryCostModifier": 25,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built",
+            "Not displayed as an available construction without [Industrial Zone]",
             "+[15]% production when building [mounted units] in this city",
             "Provides [1] [Horses]"],
 		"requiredTech": "Industrialization II"
@@ -1225,7 +1225,7 @@
         "happiness": 1,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredTech": "Massive Production II"
     },
 	{
@@ -1237,7 +1237,7 @@
         "requiredNearbyImprovedResources": ["Copper","Silver","Gold"],
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
         "happiness": 2,
 		"requiredTech": "Massive Production V"
     },
@@ -1249,7 +1249,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredNearbyImprovedResources": ["Iron"],
 		"requiredTech": "War Effort II",
 	},
@@ -1260,7 +1260,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredNearbyImprovedResources": ["Dyes"],
 		"requiredTech": "Budgetary Cuts I",
 	},
@@ -1272,7 +1272,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built",
+            "Not displayed as an available construction without [Industrial Zone]",
             "Must have an owned [Forest] within [1] tiles"],
 		"requiredTech": "Backdrop Of War I",
 	},
@@ -1283,7 +1283,7 @@
 		"happiness": 1,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredTech": "War Effort I",
 	},
 	{
@@ -1292,7 +1292,7 @@
         "gold": 5,
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built",
+            "Not displayed as an available construction without [Industrial Zone]",
             "Must have an owned [Coast] within [2] tiles"],
 		"requiredTech": "Budgetary Cuts I",
 	},
@@ -1303,7 +1303,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Industrial Zone",
 		"uniques": [
-            "Not displayed as an available construction unless [Industrial Zone] is built"],
+            "Not displayed as an available construction without [Industrial Zone]"],
 		"requiredNearbyImprovedResources": ["Cattle"],
 		"requiredTech": "Banking I",
 	},
@@ -1322,7 +1322,7 @@
             "[+1 Production] from [Lumber Mill] tiles in this city",
             "[+1 Production] from [Strategic resource] tiles in this city",
             "Cost increases by [10] per owned city",
-            "Creates a [Heavy Industry] improvement on a specific tile",
+            //"Creates a [Heavy Industry] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Heavy Production I",
@@ -1338,7 +1338,7 @@
 		"production": 3,
         "requiredBuilding": "Heavy Industry",
 		"uniques": [
-            "Not displayed as an available construction unless [Heavy Industry] is built"],
+            "Not displayed as an available construction without [Heavy Industry]"],
 		"requiredTech": "Heavy Production I"
     },
 	{
@@ -1351,7 +1351,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Heavy Industry",
 		"uniques": [
-            "Not displayed as an available construction unless [Heavy Industry] is built"],
+            "Not displayed as an available construction without [Heavy Industry]"],
         "requiredTech": "Heavy Production III"
     },
 	{
@@ -1363,7 +1363,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Heavy Industry",
 		"uniques": [
-            "Not displayed as an available construction unless [Heavy Industry] is built"],
+            "Not displayed as an available construction without [Heavy Industry]"],
 		"requiredTech": "Heavy Production I"
     },
 	{
@@ -1376,7 +1376,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Heavy Industry",
 		"uniques": [
-            "Not displayed as an available construction unless [Heavy Industry] is built"],
+            "Not displayed as an available construction without [Heavy Industry]"],
 		"requiredTech": "Heavy Production I"
     },
 	{
@@ -1388,7 +1388,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Heavy Industry",
 		"uniques": [
-            "Not displayed as an available construction unless [Heavy Industry] is built"],
+            "Not displayed as an available construction without [Heavy Industry]"],
 		"requiredTech": "Heavy Production I"
     },
 	{
@@ -1415,7 +1415,7 @@
 		"production": 5,
         "uniques": [
             "Cost increases by [10] per owned city",
-            "Creates a [Blast Furnace] improvement on a specific tile",
+            //"Creates a [Blast Furnace] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Great Metallurgy I"
@@ -1432,7 +1432,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Blast Furnace",
 		"uniques": [
-            "Not displayed as an available construction unless [Blast Furnace] is built"],
+            "Not displayed as an available construction without [Blast Furnace]"],
         "requiredTech": "Great Metallurgy I"
     },
 
@@ -1447,7 +1447,7 @@
 		"specialistSlots": {"": 1},
         "uniques": [
             "Cost increases by [10] per owned city",
-            "Creates a [Refinery] improvement on a specific tile",
+            //"Creates a [Refinery] improvement on a specific tile",
             "Provides [1] [Oil]",
             "Unsellable",
             "Cannot be purchased"],
@@ -1464,7 +1464,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Refinery",
 		"uniques": [
-            "Not displayed as an available construction unless [Refinery] is built",
+            "Not displayed as an available construction without [Refinery]",
             "Provides [1] [Oil]"],
 		"requiredTech": "Great Improvement I"
     },
@@ -1477,7 +1477,8 @@
         "production": 4,
         "maintenance": 1,
         "uniques": [
-            "Creates a [Dam] improvement on a specific tile",
+ 			"Must be next to [Mountain]",
+			//"Creates a [Dam] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Mega-Factory IV",
@@ -1491,7 +1492,7 @@
         "happiness": 1,
 		"requiredResource": "Stone",
         "uniques": [
-            "Creates a [Train Station] improvement on a specific tile",
+            //"Creates a [Train Station] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Heavy Production II"
@@ -1542,7 +1543,7 @@
         "uniques": [
             "[10]% of food is carried over after population increases",
             "Cost increases by [10] per owned city",
-    //        "Creates a [Neighborhood] improvement on a specific tile",
+    //        //"Creates a [Neighborhood] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Mechanization I",
@@ -1557,7 +1558,7 @@
 		"requiredResource": "Cocoa",
         "requiredBuilding": "Neighborhood",
 		"uniques": [
-            "Not displayed as an available construction unless [Neighborhood] is built",
+            "Not displayed as an available construction without [Neighborhood]",
             "+[2]% great person generation in all cities"],
         "requiredTech": "Farming Revolution V"
     },
@@ -1569,7 +1570,7 @@
         "maintenance": 1,
         "requiredBuilding": "Neighborhood",
 		"uniques": [
-            "Not displayed as an available construction unless [Neighborhood] is built",
+            "Not displayed as an available construction without [Neighborhood]",
             "Must have an owned [River] within [2] tiles"],
         "requiredTech": "Irrigation V"
     },
@@ -1585,7 +1586,7 @@
         "uniques": [
             "[15]% of food is carried over after population increases",
             "Must have an owned [River] within [4] tiles",
-            "Creates a [Water Tank] improvement on a specific tile",
+            //"Creates a [Water Tank] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Sanitation I"
@@ -1724,7 +1725,7 @@
             "[+1 Culture] from [Mountain] tiles in this city",
             "[+1 Culture] from [Forest] tiles in this city",
 		    "Cost increases by [10] per owned city",
-            "Creates a [Holy Site] improvement on a specific tile",
+            //"Creates a [Holy Site] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Theology I",
@@ -1742,7 +1743,7 @@
 		    "[+1 Culture] from [Mountain] tiles in this city",
             "[+1 Culture] from [Forest] tiles in this city",
             "Cost increases by [5] per owned city",
-            "Creates a [Lavra] improvement on a specific tile",
+            //"Creates a [Lavra] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
 		"requiredTech": "Theology I",
@@ -1755,7 +1756,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
         "requiredTech": "Sacred Culture II",
     },
     {
@@ -1767,7 +1768,7 @@
 		"requiredTech": "Theology II",
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
         "quote": "With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.  – Thomas Chalmers"
     },
     {
@@ -1778,7 +1779,7 @@
         "providesFreeBuilding": "Mosque",
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
 		"requiredTech": "Theology II",
     },
     {
@@ -1789,7 +1790,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built",
+            "Not displayed as an available construction without [Holy Site]",
             "[5]% of food is carried over after population increases"],
     },
 	{
@@ -1801,7 +1802,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
         "requiredTech": "Sacred Culture III",
     },
 	{
@@ -1813,7 +1814,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
         "requiredTech": "Theology III",
     },
     {
@@ -1826,7 +1827,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
 		"requiredTech": "Sacred Culture IV",
     },
     {
@@ -1836,7 +1837,7 @@
         "maintenance": 2,
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
 		"requiredTech": "Sacred Culture II",
         "specialistSlots": {"": 1},
     },
@@ -1849,7 +1850,7 @@
         "providesFreeBuilding": "Grand Monastery",
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built",
+            "Not displayed as an available construction without [Holy Site]",
             "Free [Great Artist] appears"],
         "requiredTech": "Theology III",
         "quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty'  - Procopius, De Aedificis"
@@ -1864,7 +1865,7 @@
         "uniqueTo": "France",
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built"],
+            "Not displayed as an available construction without [Holy Site]"],
         "requiredTech": "New World Order II",
         "quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.'  - Victor Hugo"
     },
@@ -1877,7 +1878,7 @@
         "greatPersonPoints": {"culture": 3},
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built",
+            "Not displayed as an available construction without [Holy Site]",
             "Culture in all cities increased by 25%"],
         "requiredTech": "New World Order III",
         "quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
@@ -1891,7 +1892,7 @@
         "isWonder": true,
         "requiredBuilding": "Holy Site",
 		"uniques": [
-            "Not displayed as an available construction unless [Holy Site] is built",
+            "Not displayed as an available construction without [Holy Site]",
             "Empire enters golden age"],
         "requiredTech": "Theology III",
         "quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.'  - Rabindranath Tagore"
@@ -1904,7 +1905,7 @@
         "percentStatBonus": {"culture": 100},
         "requiredBuilding": "Lavra",
 		"uniques": [
-            "Not displayed as an available construction unless [Lavra] is built",
+            "Not displayed as an available construction without [Lavra]",
             "[+1 Food, +1 Production, +1 Culture] from [Tundra] tiles in this city"],
 		"requiredTech": "Propaganda I",
         "quote": "'One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a fourth was in quarters like a melon.' –Katharine Blanche Guthrie"
@@ -1921,7 +1922,7 @@
         "uniques": [
             "[+1 Culture] from every Wonder",
             "Cost increases by [10] per owned city",
-            "Creates a [Theater Square] improvement on a specific tile",
+            //"Creates a [Theater Square] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Patriot I",
@@ -1935,7 +1936,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
         "requiredTech": "Propaganda IV"
     },
 	{
@@ -1949,7 +1950,7 @@
         "maintenance": 2,
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
         "requiredTech": "Propaganda V"
     },
 	{
@@ -1961,7 +1962,7 @@
 		"specialistSlots": {"": 1},
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
         "requiredTech": "Sacred Culture IV"
     },
 	{
@@ -1974,7 +1975,7 @@
         "providesFreeBuilding": "Theatre",
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built",
+            "Not displayed as an available construction without [Theater Square]",
             "Free Social Policy",
             "Free Social Policy",
             "Must be on [River]"],
@@ -1989,7 +1990,7 @@
         "hurryCostModifier": 0,
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
         "requiredTech": "New World Order III",
     },
 	{
@@ -2001,7 +2002,7 @@
         "hurryCostModifier": 0,
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
         "requiredTech": "Sacred Culture V",
     },
 	{
@@ -2012,7 +2013,7 @@
         "requiredBuildingInAllCities": "Hotel",
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
         "requiredTech": "New World Order II",
     },
 	{
@@ -2024,7 +2025,7 @@
         "maintenance": 1,
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
 		"requiredTech": "Propaganda I",
     },
     {
@@ -2037,7 +2038,7 @@
         "maintenance": 3,
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built"],
+            "Not displayed as an available construction without [Theater Square]"],
 		"requiredTech": "Propaganda III",
     },
 	{
@@ -2051,7 +2052,7 @@
         "providesFreeBuilding": "Film Studio",
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built",
+            "Not displayed as an available construction without [Theater Square]",
             "Free Social Policy",
             "Must not be on [Hill]"],
         "quote": "'There's no business like show business.' –Irving Berlin, Annie Get Your Gun"
@@ -2064,7 +2065,7 @@
         "percentStatBonus": {"culture": 50},
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built",
+            "Not displayed as an available construction without [Theater Square]",
             "Free Social Policy",
             "Can only be built in coastal cities"],
         "requiredTech": "New World Order II",
@@ -2079,7 +2080,7 @@
         "uniqueTo": "France",
         "requiredBuilding": "Theater Square",
 		"uniques": [
-            "Not displayed as an available construction unless [Theater Square] is built",
+            "Not displayed as an available construction without [Theater Square]",
             "2 free Great Artists appear"],
         "requiredTech": "Sacred Culture V",
         "quote": "'Every genuine work of art has as much reason for being as the earth and the sun'  - Ralph Waldo Emerson"
@@ -2094,7 +2095,7 @@
         "maintenance": 1,
         "uniques": [
             "Cost increases by [10] per owned city",
-            "Creates a [Entertainment Complex] improvement on a specific tile",
+            //"Creates a [Entertainment Complex] improvement on a specific tile",
             "Unsellable",
             "Cannot be purchased"],
         "requiredTech": "Propaganda I",
@@ -2109,7 +2110,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
         "requiredTech": "Propaganda II"
     },
 	{
@@ -2123,7 +2124,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
         "requiredTech": "Propaganda III"
     },
     {
@@ -2134,7 +2135,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
         "requiredTech": "New World Order III",
     },
 	{
@@ -2146,7 +2147,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
         "requiredTech": "Propaganda IV"
     },
     {
@@ -2158,7 +2159,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
 		"requiredTech": "Propaganda III",
     },
     {
@@ -2170,7 +2171,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
 		"requiredTech": "Propaganda V",
     },
     {
@@ -2182,7 +2183,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built",
+            "Not displayed as an available construction without [Entertainment Complex]",
             "[+1 Happiness] from [Geothermal Fissure] tiles in this city",
             "[5]% of food is carried over after population increases"],
 		"requiredTech": "Propaganda II",
@@ -2198,7 +2199,7 @@
 		"requiredTech": "Propaganda III",
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built",
+            "Not displayed as an available construction without [Entertainment Complex]",
             "[+2 Happiness, +3 Culture] from [Geothermal Fissure] tiles in this city"],
     },
     {
@@ -2210,7 +2211,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built"],
+            "Not displayed as an available construction without [Entertainment Complex]"],
 		"requiredTech": "Propaganda V",
     },
 	{
@@ -2221,7 +2222,7 @@
 		"specialistSlots": {"Entertainment Staff": 1},
         "requiredBuilding": "Entertainment Complex",
 		"uniques": [
-            "Not displayed as an available construction unless [Entertainment Complex] is built",
+            "Not displayed as an available construction without [Entertainment Complex]",
             "[+1 Culture] from [Flood plains] tiles in this city",
             "[10]% of food is carried over after population increases",
             "Must be next to [Flood plains]"],
